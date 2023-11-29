@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SharatGupta
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently pursuing my Master in Comuputer Science, Artificial Intelligence & Machine Learning
-- 💞️ I’m looking to increase the use of Data Science in the Automotive Field
+- 💞️ I’m looking to increase the use of Data Science in the Automotive Field for increasing data driven decision making
 - 📫 How to reach me  kallurugupta@gmail.com
 
 <!---
