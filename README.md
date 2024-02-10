@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SharatGupta
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently pursuing my Master in Comuputer Science, Artificial Intelligence & Machine Learning
-- 💞️ I want to contribute to increase data driven decision making with the use of Data Science
+- 💞️ I want enhance data driven decision making with the use of Data Science
 - 📫 How to reach me  kallurugupta@gmail.com
 
 <!---
